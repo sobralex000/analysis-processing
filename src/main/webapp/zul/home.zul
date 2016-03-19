@@ -1,0 +1,11 @@
+<zk>
+    <borderlayout hflex="1" viewModel="@id('vm')@init('ru.maksimov.analysis_processing.HomeViewModel')">
+        <center>
+            <tabbox>
+                <tabs>
+                    <tab label="Регистрация анализа" />
+                </tabs>
+            </tabbox>
+        </center>
+    </borderlayout>
+</zk>
